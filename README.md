@@ -1,3 +1,2 @@
-
-- 👀 I’m interested in Speech to text API programmation using C#, and NLP
+managing projects for customers
 
